@@ -16,7 +16,7 @@ This branch was automatically built by Travis CI. <b>DO NOT EDIT</b>.
  Pull request: [#962](https://github.com/w3c/ttml2/pull/962)
 
 
- Commit: [66a0652eceb4528b7f704a864e09cc7467df9569](https://github.com/w3c/ttml2/commit/66a0652eceb4528b7f704a864e09cc7467df9569)
+ Commit: [5b3a2e0af4ac0c3bb4deaa5da9f964d5281bd6a5](https://github.com/w3c/ttml2/commit/5b3a2e0af4ac0c3bb4deaa5da9f964d5281bd6a5)
 
 Pull request specification can be previewed at https://rawgit.com/w3c/ttml2/issue-0961-chunk-build/index.html
 
